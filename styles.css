@@ -1,0 +1,44 @@
+h1 {
+    color: #7e22ce;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    font-size: large;
+}
+
+input {
+    width: 50%;
+    height: 2.5rem;
+    text-align: center;
+    border: 2px solid #9333ea;
+    border-radius: 0.5rem;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 3rem;
+    width: 50%;
+    padding: 1rem;
+    cursor: pointer;
+    border: 2px solid #9333ea;
+    border-radius: 00.5rem;
+    font-size: medium;
+}
+button:hover {
+    background-color: #7e22ce;
+    color: #fff;
+}
+#output {
+    margin: 3rem;
+    font-size: large;
+}
